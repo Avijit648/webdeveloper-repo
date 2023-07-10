@@ -146,6 +146,7 @@ font-weight: 700;
 }
 .section{
     text-align: center;
+    font-size: 30px;
 }
 .resume-item-title{
     color: #474747;
@@ -164,4 +165,10 @@ font-weight: 700;
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
 }
